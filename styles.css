@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+/* section p {
+    color: #f66;
+} */
+
+/* section > p {
+    color: #f66;
+} */
+
+/* section p:first-child {
+  background-color: #f88;
+}
+
+section p:last-child {
+  background-color: #080;
+}
+
+section p:nth-child(2) {
+  background-color: #e5e521;
+} */
+
+section p:first-of-type {
+    background-color: #080;
+}
